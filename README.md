@@ -1,9 +1,21 @@
-# Fabric Example Mod
+# WaveAway
 
-## Setup
+## Goal
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+The goal of this mod is to implement "waving" in Minecraft in a choco-lite
+manner, keeping as close as possible to vanilla.
+
+## FAQ
+
+### Is this compatible with vanilla servers?
+Intended to be compatible with vanilla servers, yes. If it's not compatible with Spigot, Paper, etc., then it's not a Minecraft server.
+
+### Make this mod for Forge!
+Not a question.
+
+### Make this mod for Forge?
+You're invited to.
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is licensed under zlib.
