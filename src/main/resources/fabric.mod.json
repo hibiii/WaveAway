@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "waveaway",
-  "version": "${version}",
+  "version": "1.0.0",
 
   "name": "WaveAway",
   "description": "Wave at players, point at things in a choco-lite way.",
@@ -10,7 +10,7 @@
   ],
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/wabeaway/icon.png",
 
   "environment": "*",
   "entrypoints": {
