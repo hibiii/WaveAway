@@ -1,4 +1,4 @@
-![WaveAway Mod Icon](src/main/resources/assets/wavaway/icon.png)
+![WaveAway Mod Icon](src/main/resources/assets/waveaway/icon.png)
 # WaveAway
 
 Wave at players or point at blocks without punching them, in a choco-lite way.
