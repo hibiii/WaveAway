@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "waveaway",
-  "version": "1.0.0",
+  "version": "$version",
 
   "name": "WaveAway",
   "description": "Wave at players, point at things in a choco-lite way.",
@@ -9,7 +9,7 @@
     "hibj"
   ],
 
-  "license": "CC0-1.0",
+  "license": "zlib",
   "icon": "assets/waveaway/icon.png",
 
   "environment": "*",
@@ -23,5 +23,13 @@
     "fabricloader": ">=0.7.4",
     "fabric": "*",
     "minecraft": "1.16.x"
+  },
+
+  "contact": {
+    "sources": "https://github.com/Hibiii/mc-waveaway",
+    "issues": "https://github.com/Hibiii/mc-waveaway/issues"
+  },
+  "custom": {
+    "modmenu:clientsideOnly": true
   }
 }
