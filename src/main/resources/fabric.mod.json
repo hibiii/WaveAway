@@ -10,7 +10,7 @@
   ],
 
   "license": "CC0-1.0",
-  "icon": "assets/wabeaway/icon.png",
+  "icon": "assets/waveaway/icon.png",
 
   "environment": "*",
   "entrypoints": {
