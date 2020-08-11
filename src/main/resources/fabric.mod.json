@@ -30,6 +30,10 @@
     "issues": "https://github.com/Hibiii/mc-waveaway/issues"
   },
   "custom": {
-    "modmenu:clientsideOnly": true
+    "modmenu:clientsideOnly": true,
+    "modupdater": {
+      "strategy": "curseforge",
+      "projectID": 401235
+    }
   }
 }
