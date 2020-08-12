@@ -13,7 +13,7 @@ Yes! This mod uses a *feature* in the vanilla multiplayer protocol. Spigot, Pape
 **Is this some cheat?** \
 No, this mod uses the animation packet, the one used when dropping items or using (right clicking) signs.
 
-**Make this mod for Forge! ** \
+**Make this mod for Forge!** \
 That's not a question.
 
 **Make this mod for Forge?** \
