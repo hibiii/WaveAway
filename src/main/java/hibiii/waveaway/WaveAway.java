@@ -3,8 +3,8 @@ package hibiii.waveaway;
 import org.lwjgl.glfw.GLFW;
 
 import net.fabricmc.api.ModInitializer;
+import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;
 import net.fabricmc.fabric.api.client.keybinding.v1.KeyBindingHelper;
-import net.fabricmc.fabric.api.event.client.ClientTickCallback;
 
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.client.options.KeyBinding;
@@ -38,7 +38,7 @@ public class WaveAway implements ModInitializer {
 		
 		// Register callback to check for key presses every client tick
 		// (may be faster than the server's world tick)
-		ClientTickCallback.EVENT.register(client -> {
+		ClientTickEvents.END_CLIENT_TICK.register(client -> {
 			while(bindWaveMainHand.wasPressed())
 				MinecraftClient.getInstance().player.swingHand(Hand.MAIN_HAND);
 			while(bindWaveOffHand.wasPressed())
