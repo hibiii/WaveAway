@@ -1,4 +1,4 @@
-package com.github.hibiii.waveaway;
+package hibiii.waveaway;
 
 import org.lwjgl.glfw.GLFW;
 

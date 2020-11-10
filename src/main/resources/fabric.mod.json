@@ -15,7 +15,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.github.hibiii.waveaway.WaveAway"
+      "hibiii.waveaway.WaveAway"
     ]
   },
 
