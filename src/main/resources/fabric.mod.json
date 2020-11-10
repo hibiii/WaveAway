@@ -18,6 +18,9 @@
       "hibiii.waveaway.WaveAway"
     ]
   },
+  "mixins": [
+    "waveaway.mixins.json"
+  ],
 
   "depends": {
     "fabricloader": ">=0.7.4",

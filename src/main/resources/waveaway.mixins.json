@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "hibiii.waveaway.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "AirRightClickMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
