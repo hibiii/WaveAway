@@ -2,6 +2,7 @@
 # WaveAway
 
 Wave at players or point at blocks without punching them, in a choco-lite way.
+Alternatively, you can look at some empty space and right click to wave your off-hand.
 
 To install, you need **[Fabric][1]** and **[FabricApi][2]**. There are no plans for a Forge version, backports, etc. To configure, keybinds are under "Multiplayer" in the controls screen. By default, WaveAway uses F7 for waving with the **main** hand and F6 for waving with the **off** hand.
 
